@@ -7,6 +7,7 @@ jobs:
   SCRIPT:
     runs-on: ubuntu-latest
     steps:
+
       - name: Hola Mundo
-      run: | 
-        echo 'Hola Mundo'
+        run: | 
+          echo 'Hola Mundo'
